@@ -1,5 +1,5 @@
 import React from "react"
-import Button from "../components/Button/Button"
+import Button from "src/components/Button/Button"
 import "./index.css"
 
 const Home: React.FC = () => {
